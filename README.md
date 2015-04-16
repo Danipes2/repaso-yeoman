@@ -1,4 +1,4 @@
 # repaso-yeoman
-#objetivos
+##objetivos
 -aprender como se usa yeoman 
 - Realizar cambios
